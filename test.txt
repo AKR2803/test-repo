@@ -1,1 +1,2 @@
-# This is a test file for practising Git. Feature branch edit.
+# This is a test file for practising Git.
+Exclusive feature branch edit.
